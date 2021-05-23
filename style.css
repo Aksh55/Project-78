@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+  } 
+  #h1{
+    word-spacing: 10px;
+    font-variant: sans-serif;
+    text-align: center;
+    font-size: 80px;
+  }
+  #album
+  {
+    border-style:solid;
+    border-color: black ;
+    border : 3px ;
+    padding : 5px;
+    border-width: 3px;
+    max-height: 970px;
+  }
+  
